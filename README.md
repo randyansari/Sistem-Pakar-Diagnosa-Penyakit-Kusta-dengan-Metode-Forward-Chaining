@@ -1,3 +1,3 @@
 # Sistem-Pakar-Diagnosa-Penyakit-Kusta-dengan-Metode-Forward-Chaining
 
-This is my final project in the artificial intelligence course that I took when I studied Mathematics at Universitas Airlangga.
+This is my final project in the artificial intelligence course that I took when I studied Mathematics at Universitas Airlangga. This final project is about applying one of the methods/algorithms in expert systems, namely the forward chaining method. This method is applied to detect and diagnose patient complaints related to symptoms that may be experienced by leprosy patients. With the application of this method, it is expected to diagnose leprosy more accurately. This project is based on a website in which a number of questions related to the symptoms experienced will be given so that it is expected to be easily accessed and used by patients.
